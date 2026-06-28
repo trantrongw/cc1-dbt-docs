@@ -1,0 +1,1 @@
+select project_key, vn_project_name from [wh_core].[cc1].[int_project]

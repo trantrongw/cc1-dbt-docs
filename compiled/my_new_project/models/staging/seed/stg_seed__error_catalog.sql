@@ -1,0 +1,1 @@
+select * from [wh_core].[cc1_seed_data].[seed_error_catalog]
